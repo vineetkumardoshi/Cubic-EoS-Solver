@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CubicEquationOfStateSolver", "WindowsApplication3\CubicEquationOfStateSolver.vbproj", "{4DB1AE8D-1807-43D1-B437-EAC63F4F94C0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CubicEquationOfStateSolver v1.0.2.1", "CubicEquationOfStateSolver v1.0.2.1\CubicEquationOfStateSolver v1.0.2.1.vdproj", "{94368AFC-4B68-49DD-879C-3D6C7CE72258}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EoS Solver", "EoS Solver\EoS Solver.vdproj", "{1C572CC3-5854-4C17-A110-90FF8BA003C3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EoS_Solver", "..\..\..\..\Desktop\EOS_SOLVER\EoS_Solver\EoS_Solver.vdproj", "{ABC3C840-ACB0-44FD-B624-EE09D459C1D5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EoSSolver", "..\..\..\..\Desktop\EoS Solver\EoSSolver\EoSSolver\EoSSolver.vdproj", "{45AA36C5-7FE2-427A-A3DF-8CE163412777}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EoS-Solver", "..\..\..\..\Desktop\EoSSolver\EoS-Solver\EoS-Solver.vdproj", "{8DB859CF-E163-4664-8D9F-C9F824E59A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB1AE8D-1807-43D1-B437-EAC63F4F94C0}.Debug|x86.ActiveCfg = Debug|x86
+		{4DB1AE8D-1807-43D1-B437-EAC63F4F94C0}.Release|x86.ActiveCfg = Release|x86
+		{4DB1AE8D-1807-43D1-B437-EAC63F4F94C0}.Release|x86.Build.0 = Release|x86
+		{94368AFC-4B68-49DD-879C-3D6C7CE72258}.Debug|x86.ActiveCfg = Debug
+		{94368AFC-4B68-49DD-879C-3D6C7CE72258}.Release|x86.ActiveCfg = Release
+		{1C572CC3-5854-4C17-A110-90FF8BA003C3}.Debug|x86.ActiveCfg = Debug
+		{1C572CC3-5854-4C17-A110-90FF8BA003C3}.Release|x86.ActiveCfg = Release
+		{ABC3C840-ACB0-44FD-B624-EE09D459C1D5}.Debug|x86.ActiveCfg = Debug
+		{ABC3C840-ACB0-44FD-B624-EE09D459C1D5}.Release|x86.ActiveCfg = Release
+		{45AA36C5-7FE2-427A-A3DF-8CE163412777}.Debug|x86.ActiveCfg = Debug
+		{45AA36C5-7FE2-427A-A3DF-8CE163412777}.Release|x86.ActiveCfg = Release
+		{8DB859CF-E163-4664-8D9F-C9F824E59A8F}.Debug|x86.ActiveCfg = Debug
+		{8DB859CF-E163-4664-8D9F-C9F824E59A8F}.Debug|x86.Build.0 = Debug
+		{8DB859CF-E163-4664-8D9F-C9F824E59A8F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
